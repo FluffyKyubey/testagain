@@ -1,0 +1,5 @@
+﻿newmtl /Game/SHMUP_starter/Materials/MI_SpaceMap_MI_SpaceMap
+	map_Kd MI_SpaceMap_MI_SpaceMap_D.bmp
+	map_Ks MI_SpaceMap_MI_SpaceMap_S.bmp
+	bump MI_SpaceMap_MI_SpaceMap_N.bmp
+
